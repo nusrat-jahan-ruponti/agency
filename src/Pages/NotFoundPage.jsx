@@ -15,7 +15,7 @@ export default function NotFoundPage() {
     <section className="flex min-h-screen flex-col bg-gradient-to-b from-white via-purple-50/50 to-indigo-50/60 dark:from-gray-950 dark:via-gray-950 dark:to-gray-900">
       <Container className="flex flex-1 items-center py-16">
         <div className="grid w-full items-center gap-12 lg:grid-cols-2">
-          {/* বাঁ দিক */}
+          
           <div>
             <h1 className="text-5xl font-extrabold tracking-tight text-gray-900 dark:text-white md:text-7xl">
               Error 404
